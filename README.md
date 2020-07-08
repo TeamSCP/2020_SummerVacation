@@ -4,13 +4,19 @@
 
 ### Folder format
 
-- YYYY_ MM _DD
-  - pdf
+- 개인프로젝트
+  -YYYY_MM_DD
+- 팀프로젝트
+  -킥오프
+  -중간발표
+  -최종발표
 
 ### ✅ File format
 
-- TeamNumber_Title.md, TeamNumber_Title.pdf
-  - ex) Hy4_V3.pdf
+-팀 프로젝트
+  -TeamName.pdf
+-개인 프로젝트
+  -Grade_Name_Title.pdf 
 
 ### 📌 Hy4_V3 (악성문서 가이드라인)
 - 3_허송이
