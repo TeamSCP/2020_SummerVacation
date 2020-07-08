@@ -5,7 +5,6 @@
 ### Folder format
 
 - YYYY_ MM _DD
-  - md
   - pdf
 
 ### ✅ File format
