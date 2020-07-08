@@ -14,7 +14,7 @@
 ### ✅ File format
 
 -팀 프로젝트
-   -TeamName.pdf
+    -TeamName.pdf
 -개인 프로젝트
     -Grade_Name_Title.pdf 
 
