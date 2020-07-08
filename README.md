@@ -11,7 +11,7 @@
 ### ✅ File format
 
 - TeamNumber_Title.md, TeamNumber_Title.pdf
-  - ex) Team4_BOF.pdf
+  - ex) Hy4_V3.pdf
 
 ### 📌 Hy4_V3 (악성문서 가이드라인)
 - 3_허송이
