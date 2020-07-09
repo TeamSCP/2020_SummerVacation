@@ -12,7 +12,7 @@
 - 개인프로젝트
     - YYYY_MM_DD
 
-### ✅ File format
+✅ File format
 
 - 팀 프로젝트
     - TeamName.pdf
