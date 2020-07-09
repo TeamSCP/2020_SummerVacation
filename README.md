@@ -14,9 +14,9 @@
 
 ### ✅ File format
 
-### - 팀 프로젝트
+### - 📌팀 프로젝트
        - TeamName.pdf
-### - 개인 프로젝트
+### - 📕개인 프로젝트
         - Grade_Name_Title.pdf 
 
 ### 📌 Hy4_V3 (악성문서 가이드라인)
