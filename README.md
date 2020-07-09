@@ -5,11 +5,11 @@
 ### 📁Folder format
 
 - 팀프로젝트
-    - 킥오프
-    - [중간발표](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%82%A5%EC%98%A4%ED%94%84)
-    - 최종발표
+    - [킥오프(7월 6일)](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%82%A5%EC%98%A4%ED%94%84)
+    - [중간발표(7월 29일)](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%82%A5%EC%98%A4%ED%94%84)
+    - [최종발표(8월 19일)](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C)
     
-- 개인프로젝트
+- [개인프로젝트](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
     - YYYY_MM_DD
 
 ### ✅ File format
