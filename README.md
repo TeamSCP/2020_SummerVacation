@@ -6,6 +6,9 @@
   - [개인프로젝트](https://github.com/TeamSCP/2020_SummerVacation/tree/master/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
       - YYYY_MM_DD
   - 팀프로젝트
+      - 킥오프
+      - 중간발표
+      - 
 
   ### ✅ File format
 
